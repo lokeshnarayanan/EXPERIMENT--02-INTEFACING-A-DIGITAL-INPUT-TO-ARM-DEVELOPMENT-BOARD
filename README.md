@@ -1,6 +1,6 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 
-# Developed by: LOKESH N
+# Developed by: Lokesh N
 # Register.no: 212222100023
 
 ## Aim: 
